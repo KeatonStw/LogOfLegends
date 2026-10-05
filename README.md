@@ -3,7 +3,7 @@ A mobile companion app built with React Native Expo and Supabase that logs Leagu
 ## 1. Problem Definition & Mobile Scope
 
 ### The Problem
-While web-based League of Legends statistics sites (like OP.GG or U.GG) are abundant, they are optimized for desktop browsers and transactional, single-session lookups. They lack persistent, context-aware social spaces where friend groups can track collective climbs, compare historical trends over time, or run friendly competitive challenges (like LP races) directly from their mobile devices.
+While web-based League of Legends statistics sites (like OP.GG or U.GG) are abundant, they are optimized for desktop browsers and quick lookups. They lack persistent, context-aware social spaces where friend groups can track collective climbs, compare historical trends over time, or run friendly competitive challenges (like LP races) directly from their mobile devices.
 
 ### Semester Scope
 To ensure a manageable and successful build within the semester timeline, the project scope focuses strictly on core utility and foundational relational tracking:
