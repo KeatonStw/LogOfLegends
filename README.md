@@ -1,5 +1,5 @@
 # Log Of Legends
-A mobile companion app built with React Native Expo and Supabase that logs League of Legends match histories, tracks solo queue climbs, and introduces social leaderboards and LP races with friends.
+A mobile companion app built with React Native Expo and Supabase that logs League of Legends match histories, tracks solo queue climbs(ranked wins/losses/current rating/performance statistics), and introduces social leaderboards and LP races with friends.
 ## 1. Problem Definition & Mobile Scope
 
 ### The Problem
